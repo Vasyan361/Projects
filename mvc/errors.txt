@@ -1,0 +1,8 @@
+11 12 2017 21:01 Ошибка: Такая страниц не найдена В файле: C:\Server\domains\php2lesson5.local\App\Model.php на строчке: 32
+11 12 2017 21:01 Ошибка: Такая страниц не найдена В файле: C:\Server\domains\php2lesson5.local\App\Controllers\Index.php на строчке: 26
+11 12 2017 21:01 Ошибка: Такая страниц не найдена В файле: C:\Server\domains\php2lesson5.local\App\Controllers\Index.php на строчке: 26
+11 12 2017 21:02 Ошибка: Нет соединения с БД В файле: C:\Server\domains\php2lesson5.local\App\Db.php на строчке: 21
+21 12 2017 18:30 Ошибка: Нет соединения с БД В файле: C:\Server\OpenServer\domains\php2lesson6.local\App\Db.php на строчке: 22
+21 12 2017 18:33 Ошибка: Нет соединения с БД В файле: C:\Server\OpenServer\domains\php2lesson6.local\App\Db.php на строчке: 22
+21 12 2017 18:42 Ошибка: Нет соединения с БД В файле: C:\Server\OpenServer\domains\php2lesson6.local\App\Db.php на строчке: 22
+21 12 2017 18:55 Ошибка: Такая страниц не найдена В файле: C:\Server\OpenServer\domains\php2lesson6.local\App\Controllers\Index.php на строчке: 26
